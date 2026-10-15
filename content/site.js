@@ -215,7 +215,7 @@ window.PF.site = {
           "Web Scraping",
           { es: "Buenas prácticas de visualización y reporting", en: "Good practices in visualization and reporting" },
           { es: "Refuerzo Microsoft Power BI", en: "Strengthening Microsoft Power BI" },
-          { es: "Aprendo herramientas de visualización más controladas, como Streamlit", en: "More controlled visualization tools, such as Streamlit" },
+          { es: "Herramientas de visualización más controladas, como Streamlit", en: "More controlled visualization tools, such as Streamlit" },
           { es: "Técnicas de Machine Learning", en: "Machine learning techniques" },
           { es: "Métricas de calidad", en: "Quality metrics" },
           { es: "Algoritmos de explicabilidad y transparencia", en: "Explainability and transparency algorithms" },
